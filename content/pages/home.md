@@ -3,10 +3,7 @@ url: /
 sections:
   - type: gallery
     component: gallery
-    items:
-      - image: /images/wonderlijke-wintermiddag-wies-en-de-liefde-flyer.png
-        label: |
-          Wonderlijke Wintermiddag Flyer
+    items: []
   - type: column-text
     component: column-text
     horizontal: false
