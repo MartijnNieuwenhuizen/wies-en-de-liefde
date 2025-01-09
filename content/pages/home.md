@@ -3,7 +3,12 @@ url: /
 sections:
   - type: gallery
     component: gallery
-    items: []
+    items:
+      - image: /images/wonderlijke-wintermiddag-flyer-.png
+  - type: text
+    component: text
+    title: Wonderlijke WinterMiddagen Tickets
+    text: <https://wies-en-de-liefde-.weticket.com/>
   - type: column-text
     component: column-text
     horizontal: false
