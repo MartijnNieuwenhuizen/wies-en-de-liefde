@@ -8,7 +8,7 @@ sections:
   - type: text
     component: text
     title: Wonderlijke WinterMiddagen Tickets
-    text: <https://wies-en-de-liefde-.weticket.com/>
+    text: <https://wies-en-de-liefde.weticket.com/>
   - type: column-text
     component: column-text
     horizontal: false
