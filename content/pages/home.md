@@ -10,6 +10,11 @@ sections:
     title: Wonderlijke WinterMiddagen Tickets
     text: <https://wies-en-de-liefde.weticket.com/>
   - type: column-text
+    horizontal: false
+    component: column-text
+    text: "Eet je mee? Aanmelden voor een daghap kan door een mailtje te sturen aan:
+      galeriekleinzwitserland@gmail.com"
+  - type: column-text
     component: column-text
     horizontal: false
     title: ZonderDagen
